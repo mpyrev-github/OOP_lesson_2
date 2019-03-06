@@ -37,7 +37,7 @@ If you want download project as a .zip-file, please [click here](https://github.
 Затем вы должны открыть каталог [OOP_lesson_2 / Part_1 / Console_App / Debug /](https://github.com/vastXgithub/OOP_lesson_2/tree/master/Part_1/Console_App/Debug) в вашей локальной версии (это то, что вы загрузили) и дважды щелкните по Console_App.exe.<br />**Профит !!!**
 > Некоторые антивирусы могут ругаться :unamused:
 ### Часть 2
-В этой части проекта мы подключили DLL (мы создавали его на занятии [OOP_Lesson_1](https://github.com/vastXgithub/OOP_lesson_1)) из RAD Studio в Visual Studio. Мы подключили её динамически. Увидеть код [можно здесь](https://github.com/vastXgithub/OOP_lesson_2/blob/master/Part_2/Dynamic_Add_DLL/Dynamic_Add_DLL/Dynamic_Add_DLL.cpp);)
+В этой части проекта мы подключили DLL (мы создавали её на занятии [OOP_Lesson_1](https://github.com/vastXgithub/OOP_lesson_1)) из RAD Studio в Visual Studio. Мы подключили её динамически. Увидеть код [можно здесь](https://github.com/vastXgithub/OOP_lesson_2/blob/master/Part_2/Dynamic_Add_DLL/Dynamic_Add_DLL/Dynamic_Add_DLL.cpp);)
 #### Попробовать программу
 Если вы хотите попробовать мою программу, вы можете [скачать](https://github.com/vastXgithub/OOP_lesson_2/archive/master.zip) проект.
 Затем вы должны открыть каталог [OOP_lesson_2 / Part_2 / Dynamic_Add_DLL / Debug /](https://github.com/vastXgithub/OOP_lesson_2/tree/master/Part_2/Dynamic_Add_DLL/Debug/) в вашей локальной версии (это то, что вы загрузили) и дважды щелкните по Dynamic_Add_DLL.exe.<br />**Профит !!!**
