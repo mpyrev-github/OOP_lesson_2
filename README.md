@@ -3,10 +3,18 @@
 * [Русская версия](https://github.com/vastXgithub/OOP_lesson_2/blob/master/README.md#%D0%BE%D0%BE%D0%BF)
 # OOP
 ## Lesson 2
-This is second project for course of OOP from Dmitrii KHorkov.<br />At this project we have been made the DLL with [module-defenition files(.def)](https://github.com/vastXgithub/OOP_lesson_2/blob/master/Part_1/Console_App/ID/ID.def) on Visual Studio. It was doing for RAD Studio, because library (.lib) was not working wihtout it.
-### Try program
+This is second project for course of OOP from Dmitrii KHorkov.<br />
+### Part 1
+At this part of project we have been made the DLL with [module-defenition files(.def)](https://github.com/vastXgithub/OOP_lesson_2/blob/master/Part_1/Console_App/ID/ID.def) on Visual Studio. It was doing for RAD Studio, because library (.lib) was not working wihtout it.
+#### Try program
 If you want to try my program, you can [download](https://github.com/vastXgithub/OOP_lesson_2/archive/master.zip) project.
 Next, you must open directory [OOP_lesson_2/Part_1/Console_App/Debug/](https://github.com/vastXgithub/OOP_lesson_2/tree/master/Part_1/Console_App/Debug) on your local version (that is what you downloaded) and double-click on Console_App.exe. **Profit!!!**
+> Some anti-viruses can make alert :unamused:
+### Part 2
+At this part of project we have been connected DLL (we are make it on [OOP_Lesson_1](https://github.com/vastXgithub/OOP_lesson_1)) from RAD Studio to Visual Studio. We have been connected it dynamicly. Let\`s [see it](https://github.com/vastXgithub/OOP_lesson_2/blob/master/Part_2/Dynamic_Add_DLL/Dynamic_Add_DLL/Dynamic_Add_DLL.cpp) ;)
+#### Try program
+If you want to try my program, you can [download](https://github.com/vastXgithub/OOP_lesson_2/archive/master.zip) project.
+Next, you must open directory [OOP_lesson_2/Part_2/Dynamic_Add_DLL/Debug/](https://github.com/vastXgithub/OOP_lesson_2/tree/master/Part_2/Dynamic_Add_DLL/Debug/) on your local version (that is what you downloaded) and double-click on Dynamic_Add_DLL.exe. **Profit!!!**
 > Some anti-viruses can make alert :unamused:
 ## Download Project
 If you want download project as a .zip-file, please [click here](https://github.com/vastXgithub/OOP_lesson_2/archive/master.zip).
