@@ -8,30 +8,34 @@
 
 using namespace std;
 
-//1. Определяем указатель на вызываемую функцию
-typedef void(__stdcall *PName)();
+//	Определение указателя на вызываемую функцию
+typedef void(__stdcall *PName)(),
+(__stdcall *PGroup)();
 
 int main()
 {
-	//2. Подключаем DLL
+	//	Динамическое подключение DLL (загрузка)
 	HINSTANCE hDll = LoadLibrary(L"two_func.dll");
 
-	// Обработка
+	//	Обработка случая отсутствия библиотеки
 	if (hDll == NULL)
 	{
 		cout << "Error!" << endl;
 		return 1;
 	}
-	// 3. Определяем переменную, которая будет указателем на вызываемую функцию
+	//	Определение переменных, которые будут указателями на вызываемые функции
 	PName Name;
+	PGroup Group;
 
-	//4. Присваиваем значение переменной
-	Name = (PName)GetProcAddress(hDll, "name");
+	//	Присвоение значений переменным
+	Name = (PName)GetProcAddress(hDll, "_name");
+	Group = (PGroup)GetProcAddress(hDll, "_group");
 
-	//5. Используем функцию
+	//	Использование функций
 	(*Name)();
-	system("PAUSE");
+	(*Group)();
 
+	//	Выгружаем библиотеку
 	FreeLibrary(hDll);
 }
 

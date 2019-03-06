@@ -27,4 +27,7 @@
       <Filter>Исходные файлы</Filter>
     </ClCompile>
   </ItemGroup>
+  <ItemGroup>
+    <None Include="..\Debug\two_func.dll" />
+  </ItemGroup>
 </Project>
