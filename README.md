@@ -22,7 +22,9 @@ If you want download project as a .zip-file, please [click here](https://github.
 * **Mikhail Pyrev** - *Main work* - [vastXgithub](https://github.com/vastXgithub)
 
 <br />
+
 ---
+
 <br />
 
 # ООП
