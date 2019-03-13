@@ -5,7 +5,7 @@
 ## Lesson 2
 This is second project for course of OOP from Dmitrii KHorkov.<br />
 ### Part 1
-At this part of project we have been made the DLL with [module-defenition files(.def)](https://github.com/vastXgithub/OOP_lesson_2/blob/master/Part_1/Console_App/ID/ID.def) on Visual Studio. It was doing for RAD Studio, because library (.lib) was not working wihtout it.
+At this part of project we have been made the DLL with [module-defenition files(.def)](https://github.com/vastXgithub/OOP_lesson_2/blob/master/Part_1/ID/Debug/ID.def) on Visual Studio. It was doing for RAD Studio, because library (.lib) was not working wihtout it.
 #### Try program
 If you want to try my program, you can [download](https://github.com/vastXgithub/OOP_lesson_2/archive/master.zip) project.
 Next, you must open directory [OOP_lesson_2 / Part_1 / Console_App / Debug /](https://github.com/vastXgithub/OOP_lesson_2/tree/master/Part_1/Console_App/Debug) on your local version (that is what you downloaded) and double-click on Console_App.exe.<br />**Profit!!!**
