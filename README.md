@@ -5,7 +5,7 @@
 ## Lesson 2
 This is second project for course of OOP from Dmitrii KHorkov.<br />
 ### Part 1
-At this part of project we have been made the DLL with [module-defenition files(.def)](https://github.com/vastXgithub/OOP_lesson_2/blob/master/Part_1/ID/Debug/ID.def) on Visual Studio. It was doing for RAD Studio, because library (.lib) was not working wihtout it.
+At this part of project we have been made the DLL with [module-defenition files(.def)](https://github.com/vastXgithub/OOP_lesson_2/blob/master/Part_1/ID/ID/ID.def) on Visual Studio. It was doing for RAD Studio, because library (.lib) was not working wihtout it.
 #### Try program
 If you want to try my program, you can [download](https://github.com/vastXgithub/OOP_lesson_2/archive/master.zip) project.
 Next, you must open directory [OOP_lesson_2 / Part_1 / Console_App / Debug /](https://github.com/vastXgithub/OOP_lesson_2/tree/master/Part_1/Console_App/Debug) on your local version (that is what you downloaded) and double-click on Console_App.exe.<br />**Profit!!!**
@@ -31,7 +31,7 @@ If you want download project as a .zip-file, please [click here](https://github.
 ## Урок 2
 Это второй проект по курсу ООП от Дмитрия Хорькова. <br />
 ### Часть 1
-В этой части проекта мы создали библиотеку DLL с [файлом определения модулей (.def)](https://github.com/vastXgithub/OOP_lesson_2/blob/master/Part_1/Console_App/ID/ID.def) в Visual Studio. Это было сделано для RAD Studio, потому что библиотека (.lib) не работала без него.
+В этой части проекта мы создали библиотеку DLL с [файлом определения модулей (.def)](https://github.com/vastXgithub/OOP_lesson_2/blob/master/Part_1/ID/ID/ID.def) в Visual Studio. Это было сделано для RAD Studio, потому что библиотека (.lib) не работала без него.
 #### Попробовать программу
 Если вы хотите попробовать мою программу, вы можете [скачать](https://github.com/vastXgithub/OOP_lesson_2/archive/master.zip) проект.
 Затем вы должны открыть каталог [OOP_lesson_2 / Part_1 / Console_App / Debug /](https://github.com/vastXgithub/OOP_lesson_2/tree/master/Part_1/Console_App/Debug) в вашей локальной версии (это то, что вы загрузили) и дважды щелкните по Console_App.exe.<br />**Профит !!!**
