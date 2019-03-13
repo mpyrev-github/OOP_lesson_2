@@ -1,0 +1,4 @@
+LIBRARY     ID.DLL
+
+EXPORTS
+    NameAndGroup                   @1   ; NameAndGroup
